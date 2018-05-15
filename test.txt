@@ -1,6 +1,0 @@
-This is a test file. This first line is the initial file created on the GitHub site.
-
-
-This second line is from TortoiseGit on Ryan's PC.
-
-Updating from Paul's laptop with Github desktop
